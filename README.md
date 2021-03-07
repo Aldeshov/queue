@@ -1,2 +1,2 @@
 # queue
-WEB
+aldeshov.github.io/queue
